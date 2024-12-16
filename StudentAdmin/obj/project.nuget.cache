@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AY9Vq8EjuIvDVgqeJaY6cxWnoQqp8GP5ZAAWbsq5ZGncrnskJk/Dlq3i58w0Bhdostb77thUccUuoBciwFyKzg==",
+  "success": true,
+  "projectFilePath": "/home/geir/Projects/StudentAdmin/StudentAdmin/StudentAdmin.csproj",
+  "expectedPackageFiles": [
+    "/home/geir/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

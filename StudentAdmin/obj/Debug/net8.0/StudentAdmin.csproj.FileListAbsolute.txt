@@ -1,0 +1,21 @@
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.deps.json
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.runtimeconfig.json
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.dll
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.pdb
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.AssemblyInfoInputs.cache
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.AssemblyInfo.cs
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.csproj.CoreCompileInputs.cache
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.dll
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/refint/StudentAdmin.dll
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.pdb
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.genruntimeconfig.cache
+/home/geir/code/startit/Emne 3/StudentAdmin/StudentAdmin/obj/Debug/net8.0/ref/StudentAdmin.dll
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.GeneratedMSBuildEditorConfig.editorconfig
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.AssemblyInfoInputs.cache
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.AssemblyInfo.cs
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.csproj.CoreCompileInputs.cache
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.dll
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/refint/StudentAdmin.dll
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.pdb
