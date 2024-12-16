@@ -12,4 +12,10 @@ internal class Fag
       FagNavn = fagNavn;
       AntallStudiePoeng = antallStudiePoeng;
    }
+
+   public void SkrivUtInfo(Fag fag){
+      Console.WriteLine($"\nKode: {fag.FagKode}");
+      Console.WriteLine($"\nNavn: {fag.FagNavn}");
+      Console.WriteLine($"\nPoeng: {fag.AntallStudiePoeng}");
+   }
 }

@@ -24,8 +24,4 @@ internal class Student
                           $"\nProgram: {student.StudieProgram}"
                           );
     }
-    public void SomeMethod()
-    {
-
-    }
 }
