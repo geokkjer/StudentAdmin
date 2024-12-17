@@ -1,27 +1,31 @@
-namespace StudentAdmin;
 
-internal class Student
+
+using System.Data.Common;
+
+namespace StudentAdmin;
+public class Student
 {
     public string Name { get; set; }
     public int Age { get; set; }
-    public string StudieProgram { get; set; }
+    public int[] Subjects { get; set; }
     public int StudentID { get; set; }
 
-    public Student(string name, int age, string studieProgram, int studentID)
+    public Student(string name, int age, int[] subjects, int studentID)
     {
         Name = name;
         Age = age;
-        StudieProgram = studieProgram;
+        Subjects = subjects;
         StudentID = studentID;
 
     }
-
-    public void SkrivUtInfo(Student student)
+    public void SkrivUtInfo()
     {
+        Console.Clear();
+        Console.WriteLine(string.Concat(Enumerable.Repeat("*", 22)));
         Console.WriteLine($"Student info: " +
-                          $"\nNavn: {student.Name}" +
-                          $"\nAlder: {student.Age}" +
-                          $"\nProgram: {student.StudieProgram}"
+                          $"\nNavn: {Name}" +
+                          $"\nAlder: {Age}" +
+                          "\nTar fag: "
                           );
     }
 }

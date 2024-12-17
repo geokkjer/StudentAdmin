@@ -19,3 +19,11 @@
 /home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.dll
 /home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/refint/StudentAdmin.dll
 /home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.pdb
+/home/geir/Projects/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin
+/home/geir/Projects/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.deps.json
+/home/geir/Projects/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.runtimeconfig.json
+/home/geir/Projects/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.dll
+/home/geir/Projects/StudentAdmin/StudentAdmin/bin/Debug/net8.0/StudentAdmin.pdb
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.sourcelink.json
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/StudentAdmin.genruntimeconfig.cache
+/home/geir/Projects/StudentAdmin/StudentAdmin/obj/Debug/net8.0/ref/StudentAdmin.dll
